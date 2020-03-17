@@ -12,9 +12,4 @@
 ## References
 
 - [Managing Apps on Kubernetes with Istio](https://app.pluralsight.com/library/courses/istio-managing-apps-kubernetes/table-of-contents)
-
-  - Managing Apps on Kubernetes with Istio
-    <https://app.pluralsight.com/library/courses/istio-managing-apps-kubernetes/table-of-contents>
-
-  - Istio Hands-On for Kubernetes
-    <https://www.udemy.com/course/istio-hands-on-for-kubernetes/>
+- [Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes)
